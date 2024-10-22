@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola! Mi nombre es Pablo Ríquez 👋
 
 <!--
 **Pablo6024/Pablo6024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hola! Mi nombre es Pablo Ríquez
 
 ¿Quién soy?
 Soy un Analista de Datos que disfruta de encontrar hallazgos en los registros.
